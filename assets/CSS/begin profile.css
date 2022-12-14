@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  justify-content: space-around;
+}
+.information {
+  position: fixed;
+  top: 150px;
+  left: 140px;
+  background-color: white;
+}
+.clear {
+  margin-left: 700px;
+}
+.ul {
+  border: 5px solid #28467f;
+  font-size: 29px;
+  text-align: center;
+}
