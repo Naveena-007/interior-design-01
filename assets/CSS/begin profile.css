@@ -8,11 +8,24 @@
   left: 140px;
   background-color: white;
 }
-.clear {
-  margin-left: 700px;
+.clear-information {
+  margin-left: 650px;
+  font-size: 20px;
+  overflow-y: scroll;
+  height: 630px;
+}
+.clear-information::-webkit-scrollbar {
+  display: none;
 }
 .ul {
   border: 5px solid #28467f;
-  font-size: 29px;
+  font-size: 25px;
   text-align: center;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 30px;
+  color: #28467f;
+  margin: 5px;
 }
